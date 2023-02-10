@@ -1,0 +1,68 @@
+[
+    {
+        "rating":"4.5",
+        "title":"Comming home soon",
+        "text":"Joseph Indieka",
+        "img":"assets/images/01.jpg"
+    },
+    {
+        "rating":"4.6",
+        "title":"The River between",
+        "text":"Joseph I",
+        "img":"assets/images/03.jpg"
+    },
+    {
+        "rating":"3.5",
+        "title":"How to cook chapati (Edited)",
+        "text":"Joseph Omuyaku",
+        "img":"assets/images/02.jpg"
+    },
+    {
+        "rating":"2.0",
+        "title":"The Woman with secrets",
+        "text":"J Indieka",
+        "img":"assets/images/04.jpg"
+    },
+    {
+        "rating":"5.0",
+        "title":"Most loved countries(Edited)",
+        "text":"Joseph Indieka Last",
+        "img":"assets/images/05.jpg"
+    },
+    {
+        "rating":"3.7",
+        "title":"Heartbreak of the year",
+        "text":"Joseph O",
+        "img":"assets/images/06.jpg"
+    },
+    {
+        "rating":"2.9",
+        "title":"Valentine's Color is Red",
+        "text":"J Movit",
+        "img":"assets/images/07.jpg"
+    },
+    {
+        "rating":"4.1",
+        "title":"Dangerous animals on earth",
+        "text":"Jo Last",
+        "img":"assets/images/08.jpg"
+    },
+    {
+        "rating":"3.6",
+        "title":"Cash crop for my country",
+        "text":"Joseph Omuyaku",
+        "img":"assets/images/flower.jpg"
+    },
+    {
+        "rating":"2.2",
+        "title":"Take Me To The Moon",
+        "text":"J Indieka",
+        "img":"assets/images/09.jpg"
+    },
+    {
+        "rating":"4.9",
+        "title":"Music is my thing",
+        "text":"Karioko Mani",
+        "img":"assets/images/003.jpg"
+    }
+]
